@@ -5,3 +5,7 @@ main {
   flex-direction: row;
   flex-wrap: wrap;
 }
+.features {
+  width: 370px;
+  height: 304px;
+}
