@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700;900&display=swap");
+body {
+  width: 1510px;
+  height: 747px;
+  background-image: url(../banner/img/img1.jpg);
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100px;
+  width: 1170px;
+  align-items: center;
+  border-bottom: 1px solid #babbc5;
+}
+.box_second {
+  display: flex;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 1170px;
+}
+h6 {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #ffffff;
+  margin: 0;
+}
+h1 {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #ffffff;
+  margin: 131px 0 0;
+}
+p {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.nav {
+  width: 134px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  height: 80px;
+  width: 370px;
+  background-color: #ff4343;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #ffffff;
+  margin: 55px 0;
+  border: none;
+}
