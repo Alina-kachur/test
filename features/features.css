@@ -1,0 +1,7 @@
+main {
+  width: 1170px;
+  height: 717px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
