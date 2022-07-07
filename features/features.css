@@ -5,11 +5,13 @@ main {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  margin: auto;
 }
 .features {
   width: 370px;
   height: 304px;
   text-align: center;
+  margin: auto;
 }
 .header {
   font-family: "Raleway";
@@ -21,4 +23,13 @@ main {
   text-transform: uppercase;
 
   color: #2d3033;
+}
+p {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #6c7279;
 }
