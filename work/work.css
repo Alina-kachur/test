@@ -1,5 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700;900&display=swap");
 main {
-  width: 1510px;
+  width: 1515px;
   height: 678px;
   display: flex;
   flex-direction: row;
@@ -10,4 +11,27 @@ main {
   width: 378px;
   height: 340px;
   margin: auto;
+}
+.progekt {
+  background-image: url(../work/img/work3.jpg);
+  text-align: center;
+}
+.name {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin: 120px 0 30px 0;
+}
+.user {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #ffffff;
 }
