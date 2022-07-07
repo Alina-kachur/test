@@ -1,0 +1,13 @@
+main {
+  width: 1510px;
+  height: 678px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: auto;
+}
+.work {
+  width: 378px;
+  height: 340px;
+  margin: auto;
+}
