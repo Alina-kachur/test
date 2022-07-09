@@ -2,7 +2,7 @@
 body {
   width: 1510px;
   height: 747px;
-  background-image: url(../banner/img/img1.jpg);
+  background-image: url(../banner/img/bg.jpg);
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
