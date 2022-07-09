@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap");
+footer {
+  width: 1511px;
+  height: 341px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+}
+.block_first {
+  height: 251px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: #353c65;
+}
