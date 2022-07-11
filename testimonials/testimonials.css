@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Cardo:ital@1&family=Raleway:wght@700&display=swap");
+main {
+  width: 1511px;
+  height: 540px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.information {
+  width: 770px;
+  height: 490px;
+  background: #5c3249;
+}
+h2 {
+  font-family: "Cardo";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 49px;
+  text-transform: capitalize;
+  color: #ffffff;
+  margin: 116px 170px 0 129px;
+}
+h6 {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin: 20px auto 130px 129px;
+}
+.dots {
+  width: 1511px;
+  display: flex;
+  justify-content: center;
+}
+.items {
+  width: 170px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: auto;
+}
